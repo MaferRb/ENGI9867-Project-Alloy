@@ -1,0 +1,24 @@
+# Archivos de Alloy
+*.als.bak
+*.xml
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Resultados temporales
+results/temp/
+logs/temp/
+
+# Archivos del sistema
+.classpath
+.project
+.settings/
+bin/

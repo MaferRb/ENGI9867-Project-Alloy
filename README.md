@@ -29,7 +29,7 @@ The traffic light controller manages an intersection with two directions: north-
 
 ### Figure 1: Alloy Model Code
 
-![Alloy Model Code](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure1_model_code.png)
+![Alloy Model Code](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure1_model_code.png)
 
 Shows the complete Alloy specification including the Color enum (Red, Green, Yellow), the Intersection signature with ns and ew variables, and the transition rules. The code demonstrates the temporal operators (var, always, after) and constraint definitions that define the system behavior.
 

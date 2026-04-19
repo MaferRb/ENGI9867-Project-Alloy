@@ -35,7 +35,7 @@ Shows the complete Alloy specification including the Color enum (Red, Green, Yel
 
 ### Figure 2: Alloy Analyzer Interface
 
-![Alloy Analyzer Interface](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure2_analyzer_interface.png)
+![Alloy Analyzer Interface](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure2_analyzer_interface.png))
 
 Displays the Alloy Analyzer tool interface with the model loaded, showing the left panel with type and set definitions (sig Color, sig Green, sig Intersection, etc.). This panel provides an overview of all defined signatures and relations in the model.
 

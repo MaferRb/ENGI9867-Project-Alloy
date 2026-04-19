@@ -41,25 +41,25 @@ Displays the Alloy Analyzer tool interface with the model loaded, showing the le
 
 ### Figure 3: Execution Results Summary
 
-![Execution Results Summary](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure3_execution_results.png)
+![Execution Results Summary](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure3_execution_results.png)
 
 Shows the execution console output with results of all five commands: the four property checks and the run ShowTrace. Displays which properties passed (no counterexample found) and which failed (counterexample found in NSGreenDirectlyToEWGreen).
 
 ### Figure 4: State Transition Visualization
 
-![State Transition Visualization](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure4_state_transitions.png)
+![State Transition Visualization]https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure4_state_transitions.png
 
 Presents the visual state machine diagram with green and yellow highlighted nodes showing transitions between Green, Yellow, and Red states for both directions. The left side shows valid transition paths, while the right side highlights critical states.
 
 ### Figure 5: Counterexample Instance Details
 
-![Counterexample Instance Details](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure5_counterexample_details.png)
+![Counterexample Instance Details]https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure5_counterexample_details.png
 
 Displays the detailed table view of the counterexample instance, showing the values in the violation: ordering tables, color definitions (GreenS0, RedS0, YellowS0), and the critical this/Intersection table highlighted in yellow showing the problematic state (YellowS0, RedS0).
 
 ### Figure 6: Text Output of Counterexample
 
-![Text Output of Counterexample](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/main/images/figure6_counterexample_trace.png)
+![Text Output of Counterexample](https://raw.githubusercontent.com/MaferRb/ENGI9867-Project-Alloy/refs/heads/main/project10/Images/figure6_counterexample_trace.png)
 
 Shows the text representation of the counterexample trace with all variable assignments and clauses listed. The output explains the exact sequence: NS goes from Green to Yellow while EW remains Red, revealing why the property fails.
 

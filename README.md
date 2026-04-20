@@ -63,3 +63,4 @@ Displays the detailed table view of the counterexample instance, showing the val
 
 Shows the text representation of the counterexample trace with all variable assignments and clauses listed. The output explains the exact sequence: NS goes from Green to Yellow while EW remains Red, revealing why the property fails.
 
+[Click Updated Presentation](https://docs.google.com/presentation/d/1PqBi_cRYzRyWATY1zfq3Way5RcmfAxl1/edit?usp=sharing&ouid=103813443076117236926&rtpof=true&sd=true)
